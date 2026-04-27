@@ -55,4 +55,4 @@ As a disclaimer, BitDevs NYC has no official associations with or oversight of t
 - [Vancouver](https://bitdevs.ca/)
 - [Victoria](https://bitdevsvictoria.org/)
 - [Washington, D.C.](https://dcbitdevs.com/)
-- [Yaounde](https://bitdevs.org/)
+- [Yaounde](https://bitdevsyde.org)
